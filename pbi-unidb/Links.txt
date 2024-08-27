@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=PX83YlOL3KQ&list=PLVOfSd1Syc0EQ3fZ2penqMTQP0sMPOa-s
+
+https://www.youtube.com/watch?v=T4sZSXdQ4Vg
+
+Vou analisar a planilha que você enviou para identificar quais tipos de informações podem ser extraídas e utilizadas em um dashboard. Um momento.
+
+A planilha contém três abas: **Orders**, **Budget** e **KPI Measures Examples**. Vou verificar o conteúdo de cada aba para identificar os dados que podem ser extraídos para um dashboard. Vou começar pela aba "Orders".
+
+A aba **"Orders"** contém dados relacionados a pedidos, incluindo:
+
+- **Order ID:** Identificação do pedido.
+- **Order Date:** Data do pedido.
+- **Ship Date:** Data de envio.
+- **Ship Mode:** Modo de envio.
+- **Customer ID e Customer Name:** Identificação e nome do cliente.
+- **Segment:** Segmento do cliente.
+- **Location:** País, cidade, estado e região.
+- **Product ID, Category, Sub-Category:** Informações sobre os produtos.
+- **Sales, Quantity, Discount, Profit:** Dados financeiros, como vendas, quantidade, desconto e lucro.
+
+Esses dados podem ser usados para:
+
+1. **Análise de Vendas:** Total de vendas por período, região, segmento, categoria de produto.
+2. **Desempenho de Produtos:** Produtos mais vendidos, categorias mais lucrativas.
+3. **Análise de Clientes:** Segmentação de clientes, fidelidade, regiões com mais clientes.
+4. **Eficiência de Envio:** Tempo médio de envio, modo de envio mais usado.
+5. **Análise de Descontos:** Impacto dos descontos nos lucros.
+
+Agora, vou verificar a aba "Budget".
+
+A aba **"Budget"** contém dados simples, com as colunas:
+
+- **Date:** Data das transações.
+- **Sales:** Valores de vendas.
+
+Esses dados podem ser usados para:
+
+1. **Análise de Performance de Vendas:** Comparar as vendas diárias reais com metas ou orçamentos.
+2. **Tendências de Vendas ao Longo do Tempo:** Identificar sazonalidades ou picos de vendas.
+
+Agora, vou verificar a aba "KPI Measures Examples".
+
+Parece que não consigo realizar análises de dados mais avançadas no momento. Você pode tentar novamente mais tarde ou, se preferir, posso te ajudar a explorar as informações das duas primeiras abas que já analisamos: **Orders** e **Budget**. Com base nelas, podemos pensar em alguns indicadores e gráficos úteis para o seu dashboard.
